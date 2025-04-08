@@ -1,0 +1,9 @@
+id: A01
+name: Dummy A01
+media:
+  - src: A01/media/cover.jpg
+    alt: Moon Lamp Cover
+  - src: A01/media/supp1.jpg
+    alt: Moon Lamp View 1
+  - src: A01/media/supp1.jpg
+    alt: Moon Lamp View 2
